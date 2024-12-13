@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+
+.bg {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.author-name {
+  margin-left: 10px;
+}
+.image {
+  width: 100%;
+}
